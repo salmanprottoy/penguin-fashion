@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
 .penguin-logo img{
     width:60%;
 }
