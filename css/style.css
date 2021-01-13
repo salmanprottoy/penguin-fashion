@@ -1,0 +1,37 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.penguin-logo img{
+    width:60%;
+}
+.shopping-cart{
+    background-color: yellowgreen;
+    border:0;
+}
+.shopping-cart:hover{
+    background-color: rgba(140, 185, 50, 0.952);
+}
+.shopping-cart img{
+    width:20%;
+}
+.penguin-card{
+    border:0;
+}
+.woman-jacket{
+    background-color:whitesmoke;
+}
+.woman-jacket img{
+    width:100%;
+}
+.man-jacket{
+    background-color:whitesmoke;
+}
+.man-jacket img{
+    width:100%;
+}
+.penguin-card-footer{
+    border:0;
+    background-color: white;
+}
