@@ -9,9 +9,11 @@
 .shopping-cart{
     background-color: yellowgreen;
     border:0;
+    color:white;
 }
 .shopping-cart:hover{
     background-color: rgba(140, 185, 50, 0.952);
+    color:white;
 }
 .shopping-cart img{
     width:20%;
