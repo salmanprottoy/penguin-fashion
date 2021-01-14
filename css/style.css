@@ -1,13 +1,26 @@
 *{
-    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
 }
 h1{
     font-family: 'Bebas Neue', cursive;
 }
+.navbar .container-fluid {
+    padding: 0 100px;
+}
+.navbar-brand{
+    width:60px;
+}
 .penguin-logo img{
-    width:60%;
+    width: 40%;
+    height: 30%;
+}
+a.navbar-brand {
+    display: contents;
 }
 .shopping-cart{
     background-color: yellowgreen;
@@ -26,12 +39,19 @@ h1{
 }
 .woman-jacket{
     background-color:whitesmoke;
+    padding: 10px;
+    border-radius: 25px;
+}
+.card{
+    border-radius: 10px !important;
 }
 .woman-jacket img{
     width:100%;
 }
 .man-jacket{
     background-color:whitesmoke;
+    padding: 10px;
+    border-radius: 25px;
 }
 .man-jacket img{
     width:100%;
@@ -39,4 +59,18 @@ h1{
 .penguin-card-footer{
     border:0;
     background-color: white;
+}
+.penguin-container{
+    background-color:#ebebebe0;
+    border-radius:10px;
+}
+.penguin-btn{
+    background-color: yellowgreen;
+    border:0;
+    color:white;
+}
+.penguin-btn:hover{
+    background-color:rgba(140, 185, 50, 0.952);
+    border:0;
+    color:white;
 }
