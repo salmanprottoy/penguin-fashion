@@ -5,15 +5,21 @@
 body{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
+    font-size:18px;
 }
-h1{
+.banner-title {
     font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
 }
 .navbar .container-fluid {
     padding: 0 100px;
 }
 .navbar-brand{
     width:60px;
+}
+.card-title{
+    font-weight:700;
+    font-size:28px;
 }
 .penguin-logo img{
     width: 40%;
@@ -55,6 +61,11 @@ a.navbar-brand {
 }
 .man-jacket img{
     width:100%;
+}
+.price{
+    color:rgba(250, 190, 76, 1);
+    font-weight:700;
+    font-size:30px;
 }
 .penguin-card-footer{
     border:0;
