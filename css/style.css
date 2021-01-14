@@ -6,6 +6,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size:18px;
+    background-color:floralwhite;
 }
 .banner-title {
     font-family: 'Bebas Neue', cursive;
@@ -16,6 +17,9 @@ body{
 }
 .navbar-brand{
     width:60px;
+}
+.penguin-navbar{
+    background-color:floralwhite;
 }
 .card-title{
     font-weight:700;
@@ -72,7 +76,7 @@ a.navbar-brand {
     background-color: white;
 }
 .penguin-container{
-    background-color:#ebebebe0;
+    background-color:rgba(255, 255, 255, 0.822);
     border-radius:10px;
 }
 .penguin-btn{
